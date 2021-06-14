@@ -3,4 +3,4 @@ A homepage of a Job Portal website. Created as a final project for Basic Web Pro
 
 Using only HTML, CSS and JavaScript.
 
-[Preview](https://sudirao21.github.io/Basic-Web/)
+##[Preview](https://sudirao21.github.io/Basic-Web/)
